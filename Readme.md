@@ -68,6 +68,9 @@ The main physical components of this layout are:
   - Optical waveforms at transmitter output, junction between fibers, and receiver input  
 
 ---
+<img width="510" height="301" alt="image" src="https://github.com/user-attachments/assets/5f96d5a0-d291-469d-a21b-434e3db1efd2" />
+<img width="877" height="308" alt="image" src="https://github.com/user-attachments/assets/36a599d6-9c19-49d8-a278-706c97b86e77" />
+
 
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
